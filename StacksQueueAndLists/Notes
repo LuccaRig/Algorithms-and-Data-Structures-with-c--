@@ -1,0 +1,21 @@
+-> Array
+-Array index
+-Insert and delete elements from the index
+-The Array have a size(used part) and capacity(total)
+
+-> Stack
+-Last In, First Out (LIFO)
+-Push(put something in)
+-Pop(take the last element from the stack)
+
+-> Queue
+-First In, First Out(FIFO)
+-Enqueue(Add alements in the queue)
+-Dequeue(Remove the first element added from the queue)
+
+-> Lists
+-Sequence of elements
+-Conteins a value and a pointer to the next element
+-Linked list(classical list, the first link to the second, second to third one and continues)
+-Double Linked list(first pointer link to second, and the second link to the first)
+-Circular list(the last element links to the first element in the list)
