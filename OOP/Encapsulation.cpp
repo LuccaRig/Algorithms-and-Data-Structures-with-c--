@@ -38,7 +38,10 @@ public:
         return SolarSystem;
     }
     void setRadius(int radius){
+        //You can create conditions to acess or modify some characteristics of you class
+        if(radius >= 10000){
         Radius = radius;
+        }
     }
     int getRadius(){
         return Radius;
